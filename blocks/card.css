@@ -10,6 +10,10 @@
   font-size: 20px;
   line-height: 24px;
   height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 385px;
 }
 
 .card__content {
@@ -53,7 +57,8 @@
     font-size: 16px;
     line-height: 1;
     margin-bottom: 2px;
-    height: 16px;
+    max-width: 260px;
+    max-height: 18px;
   }
 
   .card__image {
@@ -63,5 +68,6 @@
 
   .card__content {
     height: 18px;
+    max-width: 288px;
   }
 }
