@@ -9,6 +9,10 @@ With this website, you will be able to post photos onto your own profile to be d
 - HTML
 - CSS
 - Responsive Design
+- Git
+- Github
+- VSCode
+- Figma
 
 ## Deployment
 
