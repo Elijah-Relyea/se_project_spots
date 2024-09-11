@@ -6,7 +6,7 @@
 
 .profile__avatar {
   margin-right: 20px;
-  border-radius: 10px;
+  border-radius: 8px;
   height: 190px;
   width: 190px;
 }
@@ -45,7 +45,6 @@
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   max-width: 420px;
-  max-height: 48px;
 }
 
 .profile__edit-btn {
@@ -113,14 +112,11 @@
   .profile__name {
     margin-bottom: 6px;
     font-size: 20px;
-    line-height: 1;
     text-align: center;
   }
 
   .profile__description {
     margin-bottom: 32px;
-    font-size: 16px;
-    line-height: 1;
     text-align: center;
   }
 
