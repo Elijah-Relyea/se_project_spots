@@ -67,6 +67,13 @@
   opacity: 100%;
 }
 
+.profile__edit-btn::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  background-image: url(../images/pencil.svg);
+}
+
 .profile__add-btn {
   margin-left: auto;
   margin-top: 138px;
