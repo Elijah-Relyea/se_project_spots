@@ -38,11 +38,11 @@
   border: none;
   background-color: transparent;
   color: #212121;
-  opacity: 40%;
+  opacity: 0.4;
 }
 
 .card__like-btn:hover {
-  opacity: 100%;
+  opacity: 1;
   cursor: pointer;
 }
 
